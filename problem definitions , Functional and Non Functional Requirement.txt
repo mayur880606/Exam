@@ -1,0 +1,43 @@
+### Problem Definition
+
+- This Multinational Company who has 12 offices all over the world.
+- The Requirement is to build website for all employees to access corporate   customers Accounting related information for multinational company Contoso.
+- This system should be access to all Employees of Contoso.
+- This System should be build and hosted on google cloud platform or AWS.
+- Every Employee would be assigned with personal username and password so that   only employees can access this website.
+- Company should have subscription for goole platform so that website can be   build easily with less cost
+- Company must have github account also as branches of company are located around   the world so if they want to add some additional info they can upload on it
+
+### Functional Requirements
+
+Admin
+
+- Admin Login
+- Add Admin
+- Add or Remove Employee 
+- Add , Edit or Remove Customers Information
+- Access to Google Cloud Platform
+- Admin Logout
+
+Employeee
+
+- Employee Login
+- Search Customer
+- Access Customers Related Information
+- Employee Logout
+
+
+### Non Functional requrements
+
+Follow the Agile methodology for software development
+  
+Documentaion
+
+	Analysis
+	Data flow
+	Entities and Attributes
+	Flow charts
+	Databases
+
+Efficient to use
+
